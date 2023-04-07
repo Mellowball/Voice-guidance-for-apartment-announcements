@@ -2,7 +2,6 @@
 
 ## 진행 기간 : 2021년 6월 28일 ~ 8월 23일
 ---
-
 ## 사용 기술
 + <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> - Programming Language
 + <img src ="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/> - Python Web Framework
