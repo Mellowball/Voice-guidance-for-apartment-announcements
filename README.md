@@ -16,8 +16,9 @@
 + 한글로 제작한 해당 게시물에 대해 외국어 번역(총 7개국 언어)기능이 포함돼있어, 외국어로도 서비스를 제공합니다.
 + 해당 프로젝트는 라즈베리파이 파이썬 가상환경에서 Nginx, uWSGI를 통해 호스팅하여 웹사이트를 통해 제공합니다.
 
+
 <details>
-<summary><b>핵심 기능 설명 펼치기</b></summary>
+  <summary><b><span style="color:yellow">핵심 기능 설명 펼치기</span></b></summary>
 <div markdown="1">
 
 ### 1. 전체 흐름도
