@@ -18,7 +18,7 @@
 
 
 <details>
-  <summary><b><span style="color:yellow">핵심 기능 설명 펼치기</span></b></summary>
+  <summary><span style="color:yellow">핵심 기능 설명 펼치기</span></summary>
 <div markdown="1">
 
 ### 1. 전체 흐름도
