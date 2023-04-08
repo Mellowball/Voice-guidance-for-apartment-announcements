@@ -18,10 +18,10 @@
 
 
 <details>
-<summary><b>핵심 기능 설명 펼치기</b></summary>
+<summary><b>기능 설명 펼치기</b></summary>
 <div markdown="1">
 
-### 1. 전체 흐름도
+### 1.  흐름도
 
 
 </details>
