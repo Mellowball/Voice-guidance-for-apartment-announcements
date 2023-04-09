@@ -9,12 +9,16 @@ from django.db import models
 import datetime
 from django.utils import timezone
 
-
+# 게시물 테이블
 class AnnounceBoard(models.Model):
-    number = models.AutoField(db_column='Number', primary_key=True)  # Field name made lowercase.
-    title = models.CharField(db_column='Title', max_length=50)  # Field name made lowercase.
-    date_time = models.DateTimeField(db_column='Date_time', default=datetime.datetime.now)  # Field name made lowercase.
-    text = models.TextField(db_column='Text')  # Field name made lowercase.
+    # 번호
+    number = models.AutoField(db_column='Number', primary_key=True)  
+    # 제목
+    title = models.CharField(db_column='Title', max_length=50)  
+    # 등록(수정) 시간, 등록할 때 시간 기본값
+    date_time = models.DateTimeField(db_column='Date_time', default=datetime.datetime.now)  
+    # 내용
+    text = models.TextField(db_column='Text')  
 
     class Meta:
         managed = False
