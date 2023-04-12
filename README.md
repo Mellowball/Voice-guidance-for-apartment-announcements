@@ -18,7 +18,7 @@
 
 
 <details>
-<summary><b>기능 설명 펼치기</b></summary>
+<summary><b>## 기능 설명 펼치기</b></summary>
 <div markdown="1">
 
 ### 1. 관리자 프로세스
