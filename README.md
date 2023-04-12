@@ -23,13 +23,27 @@
 
 ### 1. 관리자 프로세스
 <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-1.png"/>
-  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-2.png"/>
-  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-3.png"/>
-  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-4.png"/>
-  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-5.png"/>
-  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-1.png"/>
-  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-2.png"/>
-  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-3.png"/>
+
+### 1-1. 로그인 및 관리자 페이지 접근
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-2.png"/>
+  
+### 1-2. 게시물, 음성파일 생성 및 DB 입력
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-3.png"/>
+  
+### 1-3 게시물 수정 및 삭제, DB 수정
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-4.png"/>
+  
+### 1-4. 데이터베이스
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-5.png"/>
+  
+### 2. 사용자 프로세스
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-1.png"/>
+  
+### 2-1. 사이트 접근 및 게시물 선택
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-2.png"/>
+  
+### 2-2. 서비스 제공
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-3.png"/>
 
 </details>
   
