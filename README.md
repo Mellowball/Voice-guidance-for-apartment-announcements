@@ -23,6 +23,13 @@
 
 ### 1.  흐름도
 <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-1.png"/>
+  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-2.png"/>
+  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-3.png"/>
+  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-4.png"/>
+  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-5.png"/>
+  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-1.png"/>
+  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-2.png"/>
+  <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/user-3.png"/>
 
 </details>
   
