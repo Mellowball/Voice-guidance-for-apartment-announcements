@@ -21,7 +21,7 @@
 <summary><b>기능 설명 펼치기</b></summary>
 <div markdown="1">
 
-### 1.  흐름도
+### 1. 관리자 프로세스
 <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-1.png"/>
   <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-2.png"/>
   <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-3.png"/>
