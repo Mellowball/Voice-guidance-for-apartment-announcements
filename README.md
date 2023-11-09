@@ -7,7 +7,7 @@
 + <img src ="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/> - Python Web Framework
 + <img src ="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> - Database
 + <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> - LCD Touch Panel(Interface)
-+ <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/ and uWSGI-%23009639.svg?style=flat-square"/> - Server
++ <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/ and uWSGI-%23009639.svg?style=flat-square&logo=uwsgi&logoColor=white"/> - Server
 
 ## 프로젝트 설명
 + 게시물을 웹에서 음성으로 안내하는 시스템입니다.
