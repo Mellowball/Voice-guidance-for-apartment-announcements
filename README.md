@@ -47,3 +47,31 @@
 
 </details>
   
+---
+<details>
+<summary><b> 실제 뷰 펼치기</b></summary>
+<div markdown="1">
+
+### 실제 서비스 과정(서버 실행 및 게시물 생성)
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/real_view_process.png"/>
+
+### 실제 게시물 뷰
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/real_post_view.png"/>
+
+### 게시물 생성 과정(파일 변경)
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/new_post_view.png"/>
+
+### 게시물 삭제 과정(파일 변경)
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/delete_post_view.png"/>
+
+### 전체 파일과 MariaDB
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/file_and_database_view.png"/>
+
+### MySQL Workbench에서 본 데이터베이스
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/db_list_view.png"/>
+
+### Nginx와 uWSGI를 활용한 서버 동작
+<img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/uwsgi_com.png"/>
+
+
+</details>
