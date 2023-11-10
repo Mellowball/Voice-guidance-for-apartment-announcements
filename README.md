@@ -10,7 +10,8 @@
 + <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/uWSGI-%23009639.svg?style=flat-square&logo=uwsgi&logoColor=white"/> - Server
 
 ## 프로젝트 설명
-+ 게시물을 웹에서 음성으로 안내하는 시스템입니다.
++ 아파트에서 공고하는 게시물을 웹에서 음성으로 안내하는 시스템입니다.
++ 실제 아파트 게시판에 해당 기기를 설치하여 서비스를 제공하는 것을 목표로 한 프로젝트입니다.
 + 관리자는 로그인 기능을 통해 관리자 페이지로 접근하여 게시물(DB)을 관리합니다.
 + 사용자는 사용자 페이지에서 게시물에 접근하고 서비스(TTS 기능이 있는 게시물)를 제공 받습니다.
 + 한글로 제작한 해당 게시물에 대해 외국어 번역(총 7개국 언어)기능이 포함돼있어, 외국어로도 서비스를 제공합니다.
