@@ -18,7 +18,7 @@
 + 해당 프로젝트는 라즈베리파이 파이썬 가상환경에서 Nginx, uWSGI를 통해 호스팅하여 웹사이트를 통해 제공합니다.
 
 ---
-<summary><b> 기능 설명</b></summary>
+## 구현 기능 설명
 
 ### 1. 관리자 프로세스
 <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/admin-1.png"/>
@@ -46,9 +46,7 @@
 
   
 ---
-<details>
-<summary><b> 실제 뷰 펼치기</b></summary>
-<div markdown="1">
+## 실제 구현 뷰
 
 ### 실제 서비스 과정(서버 실행 및 게시물 생성)
 <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/real_view_process.png"/>
@@ -71,5 +69,3 @@
 ### Nginx와 uWSGI를 활용한 서버 동작
 <img src ="https://github.com/Mellowball/Voice-guidance-for-apartment-announcements/blob/main/Readme/uwsgi_com.png"/>
 
-
-</details>
